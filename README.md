@@ -6,5 +6,7 @@ Transformado em Titio Noel, Roberto protege as crianças das personificações d
 
 
 **Desenvolvido por:**
-JadeRaquel(https://github.com/JadeRaquel)
-TalitaKauane(https://github.com/TalitaKauane)
+| Desenvolvedor               | GitHub                                          |
+| --------------------------- | ----------------------------------------------- |
+|Jade Raquel |[JadeRaquel](https://github.com/JadeRaquel)|
+|Talita Kauane |[TalitaKauane](https://github.com/TalitaKauane)|
